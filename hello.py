@@ -1,5 +1,2 @@
-import requests
-
-def get_response:
-    pass
-
+for i in range(10):
+    print("hello, git!")
