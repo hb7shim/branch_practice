@@ -1,5 +1,5 @@
 import requests
 
-def get_response:
+def hello:
     pass
 
